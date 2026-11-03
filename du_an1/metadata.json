@@ -1,0 +1,6 @@
+{
+  "name": "EduPlan - Quản Lý Lịch Học & Theo Dõi Học Tập",
+  "description": "Ứng dụng web quản lý lịch học tập, bài tập, thời khóa biểu và biểu đồ thống kê tiến độ học tập cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
